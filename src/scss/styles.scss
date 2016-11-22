@@ -1,0 +1,35 @@
+@import '~rapid7-styles';
+
+.notificationBannerArea {
+}
+
+.banner {
+  @include r7-notification;
+}
+
+.bannerHeader {
+}
+
+.bannerIcon {
+  font-size: x-large;
+  margin-right: 10px;
+}
+
+.bannerTitle {
+}
+
+.inlineBannerTitle {
+}
+
+.inlineBannerMessage {
+}
+
+.closeBanner {
+  cursor: pointer;
+  position: absolute;
+  right: 15px;
+}
+
+.messageWarning {
+  background-color: $notification-info-bkgd-warning;
+}
