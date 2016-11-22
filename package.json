@@ -4,7 +4,7 @@
     "fast-memoize": "^2.0.2",
     "inline-style-prefixer": "^2.0.0",
     "rapid7-icon-font": "3.9.1",
-    "rapid7-styles": "2.0.1",
+    "rapid7-styles": "3.0.1",
     "react": ">=0.14.0",
     "roboto-fontface": "0.6.0"
   },
